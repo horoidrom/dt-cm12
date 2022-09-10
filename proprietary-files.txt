@@ -1,0 +1,127 @@
+# Un-categorized
+bin/at_distributor
+bin/npsmobex
+bin/refnotify
+bin/engpc
+lib/libatparser.so
+lib/libsamsungearcare.so
+lib/libsamsungeffect.so
+lib/libSamsungPkcs11Wrapper.so
+lib/libsamsungpowersound.so
+
+# GPS
+etc/gps.conf
+etc/gps.xml
+bin/gpsd
+bin/gps.cer
+lib/libsprd_agps_agent.so
+lib/hw/gps.default.so
+
+# HWC
+lib/libboost.so
+lib/egl/libGLES_mali.so
+
+# Audio
+etc/audio_hw.xml
+etc/audio_para
+etc/audio_policy.conf
+etc/codec_pga.xml
+etc/tiny_hw.xml
+lib/libfactoryutil.so
+lib/libomission_avoidance.so
+lib/libatchannel.so
+
+# WiFi
+etc/wifi/p2p_supplicant_overlay.conf
+etc/wifi/wpa_supplicant.conf
+etc/wifi/wpa_supplicant_overlay.conf
+etc/wifi/mcs.ini
+bin/macloader
+bin/mfgloader
+bin/download
+etc/firmware/sc2331_fdl.bin
+etc/firmware/sc2331_fw.bin
+etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini
+etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini
+
+
+# RIL
+bin/rild
+bin/modemd
+bin/nvitemd
+bin/phoneserver
+bin/ext_data.sh
+bin/ext_kill.sh
+bin/ext_symlink.sh
+bin/prepare_param.sh
+lib/libril.so
+lib/libreference-ril_sp.so
+lib/libsecril-client.so
+lib/libsecnativefeature.so
+
+# Camera
+lib/libisp.so
+lib/libmorpho_easy_hdr.so
+lib/libcalibration.so
+lib/libAF.so
+lib/libsft_af_ctrl.so
+lib/libdeflicker.so
+lib/libynoise.so
+lib/libspaf.so
+lib/liblsc.so
+lib/libAl_Awb.so
+lib/libAl_Awb_Sp.so
+lib/libae.so
+lib/libawb.so
+
+# ION
+lib/libmemoryheapion.so
+
+# HAL
+lib/hw/camera.sc8830.so
+lib/hw/gralloc.sc8830.so
+lib/hw/hwcomposer.sc8830.so
+lib/hw/sensors.sc8830.so
+lib/hw/sprd_gsp.sc8830.so
+
+# Media
+#etc/media_profiles.xml
+#etc/media_codecs.xml
+
+# Magnetic sensor
+lib/libyasalgo.so
+
+# DRM
+lib/libwvm.so
+lib/libomafldrm.so
+lib/drm/libomaplugin.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libWVStreamControlAPI_L3.so
+
+# Battery
+bin/lpm
+lib/libQmageDecoder.so
+media/battery_charging_5.qmg
+media/battery_charging_10.qmg
+media/battery_charging_15.qmg
+media/battery_charging_20.qmg
+media/battery_charging_25.qmg
+media/battery_charging_30.qmg
+media/battery_charging_35.qmg
+media/battery_charging_40.qmg
+media/battery_charging_45.qmg
+media/battery_charging_50.qmg
+media/battery_charging_55.qmg
+media/battery_charging_60.qmg
+media/battery_charging_65.qmg
+media/battery_charging_70.qmg
+media/battery_charging_75.qmg
+media/battery_charging_80.qmg
+media/battery_charging_85.qmg
+media/battery_charging_90.qmg
+media/battery_charging_95.qmg
+media/battery_charging_100.qmg
+media/battery_batteryerror.qmg
+media/battery_error.qmg
+media/chargingwarning.qmg
+media/Disconnected.qmg
