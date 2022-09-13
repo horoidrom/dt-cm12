@@ -1,4 +1,4 @@
-WLAN_DRIVER_PATH := vendor/sprd/wcn/wifi/sc2331/5.1
+WLAN_DRIVER_PATH := device/samung/j1pop3g/wcn/wifi/sc2331/5.1
 
 ifeq ($(TARGET_BUILD_VARIANT),eng)
 MBUILD_VAR := debug
