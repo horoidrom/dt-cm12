@@ -1,6 +1,6 @@
 
 #GPU_DRIVER_PATH := vendor/sprd/modules/libgpu/gpu/utgard
-WLAN_DRIVER_PATH := vendor/sprd/wcn/wifi/sc2331/4.4
+WLAN_DRIVER_PATH := vendor/sprd/wcn/wifi/sc2331/5.1
 
 ifeq ($(TARGET_BUILD_VARIANT),eng)
 MBUILD_VAR := debug
