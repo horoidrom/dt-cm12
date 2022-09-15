@@ -1,24 +1,21 @@
-![SandroidTeam Ih24n](https://4.bp.blogspot.com/-dtIEaGttERE/XKyQLxe0xhI/AAAAAAAABws/GqMPXn7jZQc0ayP63jT67RSurvv3FKdkwCLcBGAs/s1600/SandroidTeam-Ih24n.png "SandroidTeam Ih24n" )
-
-Many custom ROM compiled for j1pop3g check it here : www.sandroidteam.com
 =====================================
-Device tree for building custom ROM Samsung Galaxy Core 2 SM-G355H/SM-G355M a.k.a j1pop3g
+Device tree for building custom ROM Samsung Galaxy J1 Ace SM-J110H/SM-J110L a.k.a j1pop3g
 =====================================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1,3GHz Cortex-A7
-CHIPSET | Spreadtrum SC7735S sc8830
+CHIPSET | Spreadtrum SC7727S sc8830
 GPU     | Mali-400MP
-Memory  | 720 MB
-Shipped Android Version | Android 4.4.2 with TouchWiz Essence
+Memory  | 512 MB
+Shipped Android Version | Android 4.4.4 with TouchWiz Essence
 Storage | 4 GB
 MicroSD | Up to 64 GB
-Battery | 2600 mAh Li-Ion (removable)
+Battery | 1850 mAh Li-Ion (removable)
 Dimensions | 144.8 x 72.1 x 8.6 mm
 Display | 480 x 800 pixels, 5.0"
 Rear Camera  | 5 MP, LED flash
 Front Camera | 2.0 MP
-Release Date | June 2015
+Release Date | October 2015
 
-![samsung core 2](https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-2-sm-g355h-1.jpg "Samsung Galaxy core 2" )
+![samsung core 2](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-ace.jpg "Samsung Galaxy J1 Ace" )
