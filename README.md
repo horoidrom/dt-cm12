@@ -18,4 +18,4 @@ Rear Camera  | 5 MP, LED flash
 Front Camera | 2.0 MP
 Release Date | October 2015
 
-![samsung core 2](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-ace.jpg "Samsung Galaxy J1 Ace" )
+![samsung core 2](https://xphone24.com/foto/samsung_galaxy_j1_ace_neo.png "Samsung Galaxy J1 Ace" )
