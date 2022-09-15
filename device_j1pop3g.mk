@@ -52,9 +52,6 @@ PRODUCT_PACKAGES += \
 	bt_vendor.conf
 	
 # Camera
-PRODUCT_PACKAGES += \
-	camera.sc8830 \
-	camera2.sc8830
 
 # Doze
 PRODUCT_PACKAGES += \
