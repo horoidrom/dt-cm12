@@ -91,16 +91,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/bluetooth/iop_bt.db:system/etc/bluetooth/iop_bt.db \
     $(LOCAL_PATH)/configs/bluetooth/iop_device_list.conf:system/etc/bluetooth/iop_device_list.conf
-	
-# WPA supplicant
-PRODUCT_PACKAGES += \
-    hostapd \
-    libwpa_client \
-	dhcpcd.conf \
-	wpa_supplicant \
-	nvram_net.txt \
-	hostapd \
-	macloader
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wpa_supplicant/mcs.ini:system/etc/wifi/mcs.ini \
@@ -126,10 +116,9 @@ PRODUCT_PACKAGES += \
 
 # Wifi
 PRODUCT_PACKAGES += \
-	libnetcmdiface \
-	dhcpcd.conf \
-	wpa_supplicant \
-	hostapd
+    hostapd \
+    libwpa_client \
+    wpa_supplicant
 
 WIFI_CONFIGS := \
 	$(LOCAL_PATH)/configs/wifi/wpa_supplicant.conf \
