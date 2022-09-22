@@ -108,7 +108,7 @@ BOARD_HAL_STATIC_LIBRARIES := libhealthd.sc8830
 
 
 # Kernel
-#TARGET_PREBUILT_KERNEL   := /device/samsung/j1pop3g/zImage
+TARGET_PREBUILT_KERNEL   := /device/samsung/j1pop3g/zImage
 TARGET_PREBUILT_DTB      := /device/samsung/j1pop3g/dt
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := console=ttyS1,115200n8 androidboot.selinux=permissive
