@@ -73,7 +73,7 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 	persist.sys.root_access=1 \
 	persist.service.adb.enable=1
 
-#PRODUCT_COPY_FILES += device/samsung/j1pop3g/zImage:kernel
+PRODUCT_COPY_FILES += device/samsung/j1pop3g/zImage:kernel
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 PRODUCT_NAME := full_j1pop3g
