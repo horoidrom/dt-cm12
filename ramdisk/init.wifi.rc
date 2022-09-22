@@ -1,4 +1,4 @@
-# Wi-Fi init file
+# #Wi-Fi init file
 
     #Create directory for hostapd
     mkdir /data/hostapd 0770 system wifi
