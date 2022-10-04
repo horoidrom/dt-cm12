@@ -100,13 +100,12 @@ PRODUCT_COPY_FILES += \
 	
 # Audio
 PRODUCT_PACKAGES += \
-	audio.primary.sc8830 \
-	audio_policy.sc8830 \
-	audio.r_submix.default \
-	audio.usb.default \
-	audio_vbc_eq \
-	libaudio-resampler \
-	libtinyalsa
+    audio.a2dp.default \
+    audio.usb.default \
+    audio.primary.sc8830 \
+    audio_policy.sc8830 \
+    libaudioresampler \
+    audio.r_submix.default
 
 # Use prebuilt webviewchromium
 PRODUCT_PACKAGES += \
