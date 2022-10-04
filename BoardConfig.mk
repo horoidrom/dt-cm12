@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Inherit from the proprietary version
+# Inherit from the proprietary version'linux/msm_audio.h' file not found
 -include vendor/samsung/j1pop3g/BoardConfigVendor.mk
 
 # Platform
@@ -110,7 +110,7 @@ BOARD_HAL_STATIC_LIBRARIES := libhealthd.sc8830
 
 
 # Kernel
-TARGET_PREBUILT_KERNEL   := /device/samsung/j1pop3g/stock
+TARGET_PREBUILT_KERNEL   := /device/samsung/j1pop3g/zImage
 TARGET_PREBUILT_DTB      := /device/samsung/j1pop3g/dt
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := console=ttyS1,115200n8 androidboot.selinux=permissive
