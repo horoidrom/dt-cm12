@@ -85,7 +85,7 @@ PRODUCT_PACKAGES += \
 
 # Doze
 PRODUCT_PACKAGES += \
-	SamsungDoze
+	SamsungDoze \
 	Snap \
 	Torch
 	
